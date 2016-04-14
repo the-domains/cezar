@@ -1,0 +1,28 @@
+name: cezar
+favicon: null
+layout_spectrum: 0.6507628152612597
+typography_spectrum: 0.3127096442040056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1305431977380067
+  lightness: 0.7031253851018846
+  saturation: 0.3796567136887461
+  rhythmicContrast: 0.35381664289161563
+purpose: []
