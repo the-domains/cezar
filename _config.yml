@@ -1,7 +1,7 @@
 name: cezar
 favicon: null
-layout_spectrum: 0.6507628152612597
-typography_spectrum: 0.3127096442040056
+layout_spectrum: 1
+typography_spectrum: 0.55581
 cta:
   domain: null
   bucket: null
